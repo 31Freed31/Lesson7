@@ -22,7 +22,7 @@ int main() {
 
     for (int i = 0; i < spacesLeft; i++) 
     {
-        cout << " ";
+        cout << "~";
     }
 
     for (int i = 0; i < exclamationCount; i++)
@@ -32,7 +32,7 @@ int main() {
 
     for (int i = 0; i < spacesRight; i++) 
     {
-        cout << " ";
+        cout << "~";
     }
 
     cout << endl;
